@@ -1,0 +1,8 @@
+To-Do List:
+
+1º) Consertar falhas de interpretação da classe MatrixExpression;
+2º) Resolver os problemas de pivotamento que ocorrem na inversão de matrizes;
+3°) Criar um método em Derivator para retornar a matriz Jacobiana de um campo vetorial (vetor de Strings das funções);
+4º) Criar um método em Root para encontrar as raízes de funções de uma variável;
+5º) Criar um método em Root para encontrar as raízes de funções de várias variáveis;
+6º)
